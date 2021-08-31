@@ -16,6 +16,8 @@ El comando para almacenar definitivamente todos los cambios que por ahora viven 
 
 Por último, si queremos mandar nuestros commits a un servidor remoto, un lugar donde todos podamos conectar nuestros proyectos, usamos el comando git push.
 
+* creado por el increible platzi team
+
 git init Inicia el repositorio (Lo crea)
 
 git add Agrega los archivos al área de preparación
