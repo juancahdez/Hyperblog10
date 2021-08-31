@@ -18,6 +18,7 @@ Por último, si queremos mandar nuestros commits a un servidor remoto, un lugar 
 
 * creado por el increible platzi team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 git init Inicia el repositorio (Lo crea)
 
